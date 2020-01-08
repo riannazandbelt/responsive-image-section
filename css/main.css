@@ -91,6 +91,13 @@ a {
     line-height: 1.5;
   }
 
+  section {
+    align-items: center;
+  }
+
+  .mint {
+    padding-right: 3rem;
+  }
 
 
 }
@@ -100,6 +107,5 @@ a {
   html {
     font-size: 130%;
   }
-
 
 }
