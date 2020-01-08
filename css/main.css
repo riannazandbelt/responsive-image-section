@@ -63,6 +63,10 @@ a:hover {
 
 @media only screen and (min-width: 25em) {
 
+  .coco {
+    margin-bottom: 0;
+  }
+
 }
 
 @media only screen and (min-width: 38em) {
@@ -122,4 +126,5 @@ a:hover {
     padding-left: 10rem;
     padding-right: 10rem;
   }
+
 }
