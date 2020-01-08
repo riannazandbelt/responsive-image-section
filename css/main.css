@@ -19,22 +19,32 @@ html {
 
 body {
   margin: 0;
-  background-color: #e2e2e2;
 }
 
 section {
   color: #000;
+  background-color: #e2e2e2;
+  padding: 1rem;
+}
+
+h1 {
+  margin-top: 0;
+  padding-top: 1rem;
 }
 
 img {
   width: 100%;
   display: flex;
+  padding-bottom: 1rem;
+  margin-top: 2rem;
 }
 
 a {
   text-decoration: none;
   background-color: #333;
   color: #fff;
+  padding: .6em;
+  border-radius: 4px;
 }
 
 @media only screen and (min-width: 25em) {
