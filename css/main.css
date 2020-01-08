@@ -34,7 +34,10 @@ h1 {
 
 img {
   width: 100%;
-  display: flex;
+  display: block;
+}
+
+.img-flex {
   padding-bottom: 1rem;
   margin-top: 2.5rem;
 }
@@ -68,7 +71,16 @@ a {
     line-height: 1.4;
   }
 
+  section {
+    display: flex;
+    flex-wrap: wrap;
+    padding-bottom: 3rem;
+  }
 
+  .mint,
+  .img {
+    width: 50%;
+  }
 
 }
 
