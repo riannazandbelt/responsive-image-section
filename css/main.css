@@ -47,6 +47,14 @@ a {
   border-radius: 4px;
 }
 
+.coco {
+  margin-bottom: 0;
+}
+
+.super {
+  margin-top: 0;
+}
+
 @media only screen and (min-width: 25em) {
 
 
